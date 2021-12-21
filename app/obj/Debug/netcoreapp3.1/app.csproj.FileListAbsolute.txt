@@ -2,7 +2,6 @@ C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\bin\Debug\netcoreapp
 C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\bin\Debug\netcoreapp3.1\app.exe
-C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\obj\Debug\netcoreapp3.1\app.csprojAssemblyReference.cache
 C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\obj\Debug\netcoreapp3.1\app.AssemblyInfoInputs.cache
 C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\obj\Debug\netcoreapp3.1\app.AssemblyInfo.cs
 C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\obj\Debug\netcoreapp3.1\app.RazorTargetAssemblyInfo.cache
@@ -148,10 +147,15 @@ C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\bin\Debug\netcoreapp
 C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\obj\Debug\netcoreapp3.1\app.csproj.CoreCompileInputs.cache
-C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\obj\Debug\netcoreapp3.1\app.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\obj\Debug\netcoreapp3.1\app.dll
 C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\obj\Debug\netcoreapp3.1\app.pdb
 C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\obj\Debug\netcoreapp3.1\app.genruntimeconfig.cache
 C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
 C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\obj\Debug\netcoreapp3.1\app.csproj.CoreCompileInputs.cache
+C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\obj\Debug\netcoreapp3.1\app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AkhileshMod\Documents\balena-aspnetcore-webapi\app\obj\Debug\netcoreapp3.1\app.MvcApplicationPartsAssemblyInfo.cache

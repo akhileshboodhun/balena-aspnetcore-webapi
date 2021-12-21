@@ -35,6 +35,16 @@ namespace app
             }));
             services.AddControllersWithViews();
 
+            services.AddSwaggerGen(options =>
+            {
+                options.SwaggerDoc("v2", new Microsoft.OpenApi.Models.OpenApiInfo
+                {
+                    Title = "Balena ASP.NET Core Example Service API",
+                    Version = "v2",
+                    Description = "Sample service for Learner",
+                });
+            });
+
             services.AddDbContext<TodoContext>(options =>
                     options.UseSqlite("Filename=./ExampleDB.db"));
         }
@@ -66,6 +76,8 @@ namespace app
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
+            app.UseSwagger();
+            app.UseSwaggerUI(options => options.SwaggerEndpoint("/swagger/v2/swagger.json", "Todo Services"));
         }
     }
 }
